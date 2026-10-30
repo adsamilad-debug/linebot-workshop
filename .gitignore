@@ -1,0 +1,15 @@
+# Ignore rules supplement manual review. They do not remove tracked files or history.
+.env
+.env.*
+private-materials/
+logs/
+*.raw.json
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
